@@ -1,1 +1,1 @@
-# openstack-compute
+使用saltstack自动部署openstack-compute节点。
