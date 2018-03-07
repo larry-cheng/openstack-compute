@@ -1,0 +1,6 @@
+nova:
+  RABBIT_PASS: openstack
+  CONTROLLER: 192.168.56.11
+  NOVA_DB_PASS: nova
+  PLACEMENT_PASS: placement
+  NOVNCPROXY: 192.168.56.11

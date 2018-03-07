@@ -1,0 +1,5 @@
+neutron:
+  CONTROLLER: 192.168.56.11
+  RABBIT_PASS: openstack
+  NEUTRON_PASS: neutron
+  PROVIDER_INTERFACE_NAME: eth0

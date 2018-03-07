@@ -1,0 +1,2 @@
+keystone:
+  KEYSTONE_SERVER: 192.168.56.11
